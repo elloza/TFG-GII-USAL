@@ -2,50 +2,58 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'TeachBooks Template' # replace with your own book title when you use this template
+title: 'Guía NO oficial para realizar un TFG en el Grado en Ingeniería Informática de la USAL' # replace with your own book title when you use this template
 authors: #replace with your own name(s) if you use this template
-- email: info@teachbooks.io
-  name: 'TeachBooks Development Team'
+- email: loza@usal.es
+  name: 'Álvaro Lozano Murciego'
   website: 'https://teachbooks.io/'
 message: 'If you use this teachbook, please cite it using these metadata.'
 preferred-citation:
   type: book
   authors: #replace with your own name(s) if you use this template
-  - email: info@teachbooks.io
-    name: 'TeachBooks Development Team'
+  - email: loza@usal.es
+    name: 'Álvaro Lozano Murciego'
     website: 'https://teachbooks.io/'
-#  - given-names: Tom
+  - given-names: Alvaro
 #    name-particle: van
-#    family-names: Woudenberg
-#    email: t.r.van.woudenberg@tudelft.nl
-#    affiliation: TeachBooks
-#    orcid: 'https://orcid.org/0000-0002-9536-061X'
-  url: 'https://teachbooks.github.io/template/' # replace with your own URL (book website / publisher link) when you use this template
+    family-names: Lozano Murciego
+    email: t.r.van.woudenberg@tudelft.nl
+    affiliation: Universidad de Salamanca
+    orcid: 'https://orcid.org/0000-0002-0493-4471'
+  url: 'https://elloza.com/TFG-GII-USAL/' # replace with your own URL (book website / publisher link) when you use this template
   identifiers:
     - type: url
-      value: 'https://teachbooks.github.io/template/' # replace with your own URL when you use this template
+      value: 'https://elloza.com/TFG-GII-USAL/' # replace with your own URL when you use this template
       description: 'Published book on GitHub Pages'
     - type: url
-      value: 'https://github.com/TeachBooks/template' # replace with your own URL when you use this template
+      value: 'https://github.com/elloza/TFG-GII-USAL' # replace with your own URL when you use this template
       description: 'GitHub repository'
-  abstract: >- # replace with your own abstract when you use this template
-    The template allows you to start your own TeachBook and
-    hosting that TeachBook online without knowledge on Git,
-    the Jupyter book package, python or anaconda. It doesn't
-    elaborate on the collaborative functionalities of Git or
-    how to edit the book
-  keywords: # replace with your own keywords when you use this template
+  abstract: >-
+    Esta guía busca servir de apoyo con consejos y recursos para estudiantes del Grado en Ingeniería Informática de la USAL 
+    que están realizando su Trabajo de Fin de Grado (TFG). Recopila recursos, consejos y buenas prácticas para facilitar la 
+    elaboración del TFG, basándose en experiencias personales y de otros estudiantes, aunque no es oficial y no sustituye 
+    las indicaciones universitarias.
+  keywords:
+    - TFG
+    - 'Trabajo de Fin de Grado'
+    - 'Universidad de Salamanca'
+    - USAL
+    - 'Ingeniería Informática'
+    - 'Grado en Ingeniería Informática'
+    - 'Guía académica'
+    - 'Recursos educativos'
+    - 'Buenas prácticas'
+    - 'Estudiantes universitarios'
     - TeachBooks
-    - Template
     - 'Jupyter Book'
-  title: 'TeachBooks Template' # replace with your own book title when you use this template
+  title: 'Guía NO oficial para realizar un TFG en el Grado en Ingeniería Informática de la USAL' # replace with your own book title when you use this template
   institution:
-    name: 'TeachBooks' # replace with your own institution when you use this template
+    name: 'Universidad de Salamanca' # replace with your own institution when you use this template
   license: CC-BY-4.0
   license-url: 'https://creativecommons.org/licenses/by/4.0/'
-  copyright: '© 2025 TeachBooks' # replace with your own affiliation / name when you use this template
+  copyright: '© 2025 Álvaro Lozano Murciego' # replace with your own affiliation / name when you use this template
   languages:
-    - en # replace with your book language when you use this template
+    - es # replace with your book language when you use this template
   contact: # replace with your own contact information when you use this template
-  - email: info@teachbooks.io
-    name: 'TeachBooks Development Team'
+  - email: loza@usal.es
+    name: 'Álvaro Lozano Murciego'
